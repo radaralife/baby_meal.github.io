@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "이유식 메뉴생성",
+  "name": "이유식 자동 메뉴 추천",
   "icons": [
     {
       "src": "favicon.ico",
