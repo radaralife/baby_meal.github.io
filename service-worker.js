@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/baby_meal.github.io/precache-manifest.3e77277fd67a386641f2be37591e3067.js"
+  "/baby_meal.github.io/precache-manifest.73d9a2b560869581398f0c313ac45e9b.js"
 );
 
 workbox.clientsClaim();
